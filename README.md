@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-delmiro-370125302)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_delmirozx?igsh=MWJmdXV4ZGdjaDZtZg==)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDelmiro13&show_icons=true&theme=dracula)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDelmiro13&show_icons=true&theme=radical)
 
 ## Tecnologias que costumo usar no meu dia a dia
 
@@ -14,6 +14,12 @@
   <img align ="center" alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logoColor=white" />
   <img align ="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
+
+<div>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img width=49% height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroDelmiro13&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</div>
 
 Amante da tecnologia e da criação através da programação.
 
