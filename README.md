@@ -1,11 +1,18 @@
-### Olá! Eu me chamo Pedro Delmiro, sou um Desenvolvedor Web
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b8449b92-8e06-4f79-9d05-a08bd806e176" 
+     alt="Capa para LinkedIn" 
+     style="width: 100%; max-width: 10px; border-radius: 10px;" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-delmiro-370125302)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_delmirozx?igsh=MWJmdXV4ZGdjaDZtZg==)
+  <h1>Bem-vindo!</h1>
+</div>
 
-## Tecnologias que costumo usar no meu dia a dia
 
-<div style="display: inline_block"><br/>
+<div align="center">
+  <p>Estou sempre aberto a novas conexões e oportunidades. Se quiser saber mais sobre minha trajetória profissional ou trocar ideias sobre tecnologia, não hesite em me adicionar!</p>
+</div>
+
+<div align="center" style="display: inline-block"><br/>
+  <h1>Tecnologias que costumo usar no meu dia a dia</h1>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -15,9 +22,6 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-
-
 </div><br/>
 
 <table>
@@ -35,8 +39,19 @@
   </tr>
 </table>
 
-Amante da tecnologia e da criação através da programação.
-
-## E-mail para contato:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdelmiro1309@gmail.com)
+<div align="center">
+<h1>Informações para contato</h1>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrodelmiro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br>
+  
+  <a href="mailto:pdelmiro1309@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a><br>
+  
+  <a href="https://www.instagram.com/_delmirozx?igsh=MWJmdXV4ZGdjaDZtZg==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
