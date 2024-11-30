@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  - Estudo Sistemas para Internet na Universidade Católica de Pernambuco, através do programa "Embarque Digital". Atrelado ao embarque, faço parte da residência tecnológica do Porto Digital, A Residência OnBoard!
+  - Estudo Sistemas para Internet na Universidade Católica de Pernambuco, através do programa "Embarque Digital". Além disso, faço parte da residência tecnológica do Porto Digital, A Residência OnBoard!
 </p>
 
 <p align="center">
-  - Estou procurando pela minha primeira oportunidade no mercado. Meu sonho é poder por em prática meus conhecimentos e aprender mais e mais do mundo da programação.
+  - Estou em busca da minha primeira oportunidade no mercado de trabalho. Meu objetivo é aplicar meus conhecimentos na prática e continuar aprendendo sobre o vasto universo da programação.
 </p>
 
 <details align="center">
