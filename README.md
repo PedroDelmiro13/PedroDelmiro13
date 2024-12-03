@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=300&width=1000&lines=Ol%C3%A1%21+Eu+me+chamo+Pedro+Delmiro;Sou+um+desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Estudo+Sistemas+para+internet+na+Universidade+Católica+de+Pernambuco;Seja+bem+vindo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=300&width=1000&lines=Ol%C3%A1%21+Eu+me+chamo+Pedro+Delmiro;Sou+um+desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Estudo+Sistemas+para+internet+na+Universidade+Católica+de+Pernambuco;Seja+bem+vindo!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,14 +9,15 @@
 <details align="center">
   <summary>👨‍💻 Sobre mim</summary>
 
-  - Olá, eu me chamo Pedro Delmiro! Um desenvolvedor backend em formação.  
-  - Estudo Sistemas para Internet na Universidade Católica de Pernambuco, através do programa "Embarque Digital". Além disso, faço parte da residência tecnológica do Porto Digital, A Residência OnBoard!  
-  - Estou em busca da minha primeira oportunidade no mercado de trabalho. Meu objetivo é aplicar meus conhecimentos na prática e continuar aprendendo sobre o vasto universo da programação.  
+  - 👋 Olá, eu me chamo Pedro Delmiro! Um desenvolvedor backend em formação.  
+- 🎓 Estudo Sistemas para Internet na Universidade Católica de Pernambuco, através do programa "Embarque Digital". Além disso, faço parte da residência tecnológica do Porto Digital, A Residência OnBoard!  
+- 🚀 Estou em busca da minha primeira oportunidade no mercado de trabalho. Meu objetivo é aplicar meus conhecimentos na prática e continuar aprendendo sobre o vasto universo da programação.  
+ 
 
   <br>
 
-  - 💬 Tenho 18 anos e moro em Recife, Brasil. Tenho nível intermediário de inglês e experiência com Java, Python, FastAPI, PostgreSQL, HTML, CSS, e JavaScript. Também possuo conhecimento em análise de dados, o que inclui habilidades como organização, interpretação de informações e visualização de dados.  
-  - ⚡ Gosto de caminhar, fazer atividades físicas e jogar com meus amigos. Acredito que nossos gostos pessoais ajudam a desenvolver uma visão mais aguçada das coisas e a encontrar soluções para problemas. \o/
+- 💬 Tenho 18 anos e moro em Recife, Brasil. Tenho nível intermediário de inglês e experiência com Java, Python, FastAPI, PostgreSQL, HTML, CSS, e JavaScript. Também possuo conhecimento em análise de dados, o que inclui habilidades como organização, interpretação de informações e visualização de dados.  
+- ⚡ Gosto de caminhar, fazer atividades físicas e jogar com meus amigos. Acredito que nossos gostos pessoais ajudam a desenvolver uma visão mais aguçada das coisas e a encontrar soluções para problemas. \o/
 
 </details>
 
