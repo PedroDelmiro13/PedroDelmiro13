@@ -16,7 +16,7 @@
 
   <br>
 
-- 💬 Tenho 18 anos e moro em Recife, Brasil. Tenho nível intermediário de inglês e experiência com Java, Python, FastAPI, PostgreSQL, HTML, CSS, e JavaScript. Também possuo conhecimento em análise de dados, o que inclui habilidades como organização, interpretação de informações e visualização de dados.  
+- 💬 Tenho 18 anos e moro em Recife, Brasil. Tenho nível intermediário de inglês e experiência com Java, Python, Springboot, PostgreSQL, HTML, CSS, e JavaScript. Também possuo conhecimento em análise de dados, o que inclui habilidades como organização, interpretação de informações e visualização de dados.  
 - ⚡ Gosto de caminhar, fazer atividades físicas e jogar com meus amigos. Acredito que nossos gostos pessoais ajudam a desenvolver uma visão mais aguçada das coisas e a encontrar soluções para problemas. \o/
 
 </details>
