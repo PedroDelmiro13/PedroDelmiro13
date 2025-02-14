@@ -5,19 +5,17 @@
   </a>
 </p>
 
-
 <details align="center">
-  <summary>👨‍💻 Sobre mim</summary>
+  <summary><h3>👨‍💻 Sobre mim</h3></summary>
 
-  - 👋 Olá, eu me chamo Pedro Delmiro! Um desenvolvedor backend em formação.  
-- 🎓 Estudo Sistemas para Internet na Universidade Católica de Pernambuco, através do programa "Embarque Digital". Além disso, faço parte da residência tecnológica do Porto Digital, A Residência OnBoard!  
-- 🚀 Estou em busca da minha primeira oportunidade no mercado de trabalho. Meu objetivo é aplicar meus conhecimentos na prática e continuar aprendendo sobre o vasto universo da programação.  
+  - 👋 Olá! Sou Pedro Delmiro, estudante de Sistemas para Internet na UNICAP pelo Embarque Digital e residente tecnológico no Porto Digital. 
+- 💻 Desenvolvedor backend em formação, com experiência em Java, Python, Spring Boot, PostgreSQL e JavaScript. Também tenho conhecimentos em análise de dados.
+- 🚀 Buscando minha primeira oportunidade no mercado para aplicar e expandir meus conhecimentos.
  
 
   <br>
 
-- 💬 Tenho 18 anos e moro em Recife, Brasil. Tenho nível intermediário de inglês e experiência com Java, Python, Springboot, PostgreSQL, HTML, CSS, e JavaScript. Também possuo conhecimento em análise de dados, o que inclui habilidades como organização, interpretação de informações e visualização de dados.  
-- ⚡ Gosto de caminhar, fazer atividades físicas e jogar com meus amigos. Acredito que nossos gostos pessoais ajudam a desenvolver uma visão mais aguçada das coisas e a encontrar soluções para problemas. \o/
+- 💬 Recife, Brasil | 🇬🇧 Inglês intermediário | ⚡ Apaixonado por tecnologia, atividades físicas e games.
 
 </details>
 
@@ -36,10 +34,6 @@
     </td>
   </tr>
 </table><br>
-
-<p align="center">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 <div align="center">
   <h1>
@@ -91,3 +85,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div><br>
+
+<p align="center">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
