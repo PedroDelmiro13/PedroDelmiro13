@@ -7,17 +7,14 @@
 
 <details align="center">
   <summary><h3>👨‍💻 Sobre mim</h3></summary>
-
-  - 👋 Olá! Sou Pedro Delmiro, estudante de Sistemas para Internet na UNICAP pelo Embarque Digital e residente tecnológico no Porto Digital. 
-- 💻 Desenvolvedor backend em formação, com experiência em Java, Python, Spring Boot, PostgreSQL e JavaScript. Também tenho conhecimentos em análise de dados.
-- 🚀 Buscando minha primeira oportunidade no mercado para aplicar e expandir meus conhecimentos.
- 
-
   <br>
-
-- 💬 Recife, Brasil | 🇬🇧 Inglês intermediário | ⚡ Apaixonado por tecnologia, atividades físicas e games.
-
+  - 🎓 Estudante de Sistemas para Internet (UNICAP) | Residente Tecnológico (Porto Digital). <br>
+  - 💻 Desenvolvedor backend em formação com experiência em Java, Python, Spring Boot, PostgreSQL, JavaScript e análise de dados. <br>
+  - 🚀 Buscando a primeira oportunidade no mercado para aplicar e expandir conhecimentos. <br>
+  <br>
+  - 💬 Recife, Brasil | 🇬🇧 Inglês intermediário | ⚡ Apaixonado por tecnologia, atividades físicas e games.
 </details>
+
 
 
 <table>
@@ -71,15 +68,14 @@
 
 </div> <br>
 
-
 <div align="center">
-  <p>Estou sempre aberto a novas conexões e oportunidades. Se quiser saber mais sobre minha trajetória profissional ou trocar umas ideias sobre tecnologia, fique à vontade para me adicionar!</p>
-</div>
-<div align="center">
-  <a href="mailto:pdelmiro1309@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a><br>
-  <a href="https://www.linkedin.com/in/pedrodelmiro">
+  <a href="https://www.linkedin.com/in/pedrodelmiro" style="margin-right: 10px; vertical-align: middle;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div><br>
+  <a href="mailto:pdelmiro1309@gmail.com" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+
+
