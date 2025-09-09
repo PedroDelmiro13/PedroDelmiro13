@@ -9,7 +9,7 @@
   <summary><h3>👨‍💻 Sobre mim</h3></summary>
   <br>
   - 🎓 Estudante de Sistemas para Internet (UNICAP) | Residente Tecnológico (Porto Digital). <br>
-  - 💻 Desenvolvedor backend em formação com experiência em Java, Python, Spring Boot, PostgreSQL, JavaScript e análise de dados. <br>
+  - 💻 Desenvolvedor backend em formação com experiência em Java, Python, Spring Boot, PostgreSQL, MongoDB, JavaScript e análise de dados. <br>
   - 🚀 Buscando a primeira oportunidade no mercado para aplicar e expandir conhecimentos. <br>
   <br>
   - 💬 Recife, Brasil | 🇬🇧 Inglês intermediário | ⚡ Apaixonado por tecnologia, atividades físicas e games.
@@ -41,21 +41,21 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
 
   <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
+    <h3>Linguagens & Bancos de Dados</h3>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
   
   <div style="flex-basis: 48%;">
     <h3>Ferramentas & Frameworks</h3>
     <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
     <img align="center" alt="DataGrip" src="https://img.shields.io/badge/DataGrip-0A4E7E?style=for-the-badge&logo=datagrip&logoColor=white" />
     <img align="center" alt="VScode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </div>
   
   <div style="flex-basis: 48%;">
     <h3>Bibliotecas</h3>
