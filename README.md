@@ -60,6 +60,12 @@
   <img align="center" alt="DataGrip" src="https://img.shields.io/badge/DataGrip-0A4E7E?style=for-the-badge&logo=datagrip&logoColor=white" />
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
+<h3>Salesforce</h3>
+
+<img align="center" alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img align="center" alt="Apex" src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img align="center" alt="Lightning Web Components" src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img align="center" alt="Flow Builder" src="https://img.shields.io/badge/Flow_Builder-0176D3?style=for-the-badge&logo=salesforce&logoColor=white" />
   
   <div style="flex-basis: 48%;">
     <h3>Bibliotecas</h3>
